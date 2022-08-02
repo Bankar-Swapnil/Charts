@@ -1,0 +1,56 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Adjust tools",
+        "links": [
+          {
+            "name": "Adjust Brightness",
+            "description": "You can freely adjust image brightness an unlimited number of times",
+            "color": "#6666ff",
+            "iconSrc": "/img/brightness.png",
+            "url": "/adjust/image-brightness"
+          },
+          {
+            "name": "Adjust Blur",
+            "description": "Free online tool for adjusting image blur",
+            "color": "#ad81ee",
+            "iconSrc": "/img/blur.svg",
+            "url": "/adjust/image-blur"
+          },
+          {
+            "name": "Adjust Contrast",
+            "description": "Adjust image contrast using a simple and free online tool",
+            "color": "#ff6666",
+            "iconSrc": "/img/contrast.png",
+            "url": "/adjust/image-contrast"
+          },
+          {
+            "name": "Adjust Grayscale",
+            "description": "A simple and free online tool for converting an image to grayscale",
+            "color": "#33cccc",
+            "iconSrc": "/img/adjust-grayscale.png",
+            "url": "/adjust/image-grayscale"
+          },
+          {
+            "name": "Adjust Invert",
+            "description": "Free online tool for quickly reversing the colours of your images.",
+            "color": "#ff9966",
+            "iconSrc": "/img/invert.png",
+            "url": "/adjust/image-invert"
+          }
+        ]
+      
+      }
+    ]
+  },
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ]
+}

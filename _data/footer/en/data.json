@@ -1,0 +1,105 @@
+{
+  "logo": "/picture.png",
+  "heading": "safeimagekit.com",
+  "companytitle": "Company",
+  "producttitle": "Product",
+  "networksitestitle": "Network sites",
+  "company": [
+    {
+      "name": "Terms and Condition",
+      "url": "/terms-and-conditions"
+    },
+    {
+      "name": "Disclaimer",
+      "url": "/disclaimer"
+    },
+    {
+      "name": "Privacy",
+      "url": "/privacy-policy"
+    }
+  ],
+  "product": [
+    {
+      "name": "Adjust Brightness",
+      "url": "/adjust/image-brightness"
+    },
+    {
+      "name": "Adjust Blur",
+      "url": "/adjust/image-blur"
+    },
+    {
+      "name": "Adjust Contrast",
+      "url": "/adjust/image-contrast"
+    },
+    {
+      "name": "Adjust Grayscale",
+      "url": "/adjust/image-grayscale"
+    },
+    {
+      "name": "Adjust Invert",
+      "url": "/adjust/image-invert"
+    },
+    {
+      "name": "Adjust Saturate",
+      "url": "/adjust/image-saturate"
+    },
+    {
+      "name": "Adjust Sepia",
+      "url": "/adjust/image-sepia"
+    },
+    {
+      "name": "Adjust Hue Rotate",
+      "url": "/adjust/image-hue-rotate"
+    },
+    {
+      "name": "Flip Image horizontally",
+      "url": "/adjust/flip-image-horizontally"
+    },
+    {
+      "name": "Flip Image Vertically",
+      "url": "/adjust/flip-image-vertically"
+    },
+    {
+      "name": "Mirror image effect",
+      "url": "/adjust/mirror-image-effect"
+    }
+  ],
+  "social": [
+    {
+      "logo": "/assets/facebook.svg",
+      "url": "/",
+      "title": "facebook"
+    },
+    {
+      "logo": "/assets/youtube.svg",
+      "url": "/",
+      "title": "youtube"
+    },
+    {
+      "logo": "/assets/instagram.svg",
+      "url": "/",
+      "title": "instagram"
+    },
+    {
+      "logo": "/assets/linkdin.svg",
+      "url": "/",
+      "title": "linkedin"
+    },
+    {
+      "logo": "/assets/twitter.svg",
+      "url": "/",
+      "title": "twitter"
+    }
+  ],
+  "legal": [
+    {
+      "name": "About Us",
+      "url": "about"
+    },
+    {
+      "name": "Contact Us",
+      "url": "contact"
+    }
+  ],
+  "messege": "© 2021 - safeimagekit.com"
+}

@@ -1,0 +1,81 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Free Online  Adjustments Tools - Safeimagekit",
+  "h2": "No files are sent to server. 100% safe.",
+  "TITLE": "Free Online Adjustments Tools - Safeimagekit",
+  "META": "Free and Easy to use online image effects. Try the  effect.",
+  "keywords": "",
+  "features": [
+    {
+      "name": "Horizontal-BarGraph",
+      "description": "You can freely adjust image brightness an unlimited number of times",
+      "color": "#6666ff",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Horizontal-BarGraph"
+    },
+    {
+      "name": "Cloum-Chart",
+      "description": "Free online tool for adjusting image blur",
+      "color": "#ad81ee",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Cloum-Chart"
+    },
+    {
+      "name": "Doughnut-Chart",
+      "description": "Adjust image contrast using a simple and free online tool",
+      "color": "#ff6666",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Doughnut-Chart"
+    },
+    {
+      "name": "PieChart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/PieChart"
+    },
+    {
+      "name": "Speed-Chart",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Speed-Chart"
+    },
+    {
+      "name": "Radar-Mark-Chart",
+      "description": "You can freely adjust image brightness an unlimited number of times",
+      "color": "#6666ff",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Mark-Chart"
+    },
+    {
+      "name": "Radar-Student-Performance-Chart",
+      "description": "Free online tool for adjusting image blur",
+      "color": "#ad81ee",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Radar-Student-Performance-Chart"
+    },
+    {
+      "name": "Polar-Chart",
+      "description": "Adjust image contrast using a simple and free online tool",
+      "color": "#ff6666",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Polar-Chart"
+    },
+    {
+      "name": "Polar-Area-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Polar-Area-Chart"
+    },
+    {
+      "name": "Bubble-Chart",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Bubble-Chart"
+    }
+  ]
+}
