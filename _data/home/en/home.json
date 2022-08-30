@@ -77,5 +77,126 @@
       "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
       "url": "/Bubble-Chart"
     }
+    ,
+    {
+      "name": "Bar-Comp",
+      "description": "Adjust image contrast using a simple and free online tool",
+      "color": "#ff6666",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Bar-Comp"
+    },
+    {
+      "name": "Transparant-Graph",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Transparant-Graph"
+    },
+    {
+      "name": "Line-Chart",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Line-Chart"
+    },
+    {
+      "name": "LineCurve-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/LineCurve-Chart"
+    }
+    ,
+    {
+      "name": "Line-Bar-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/Line-Bar-Chart"
+    },
+    {
+      "name": "LINES-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "/LINES-Chart"
+    },
+    {
+      "name": "Filled-Line-Chart",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Filled-Line-Chart"
+    },
+    {
+      "name": "Stacked-Bar-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Stacked-Bar-Chart"
+    },
+    {
+      "name": "Ring-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Ring-Chart"
+    },
+    {
+      "name": "Horizontal-Stacked-Bar-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Horizontal-Stacked-Bar-Chart"
+    },
+    {
+      "name": " Area-Under-Line",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": " Area-Under-Line"
+    },
+    {
+      "name": "Area-Under-Curve",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Area-Under-Curve"
+    },
+    {
+      "name": "Step-Line-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Step-Line-Chart"
+    },
+    {
+      "name": "Area-Under-Step-Line-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Area-Under-Step-Line-Chart"
+    },
+    {
+      "name": "Step-Straight-Line-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Step-Straight-Line-Chart"
+    },
+    {
+      "name": "Curve-Straight-Line-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Curve-Straight-Line-Chart"
+    },
+    {
+      "name": "Curve-Step-Line-Chart",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "https://img.icons8.com/cute-clipart/64/000000/edit-image.png",
+      "url": "Curve-Step-Line-Chart"
+    }
   ]
 }
