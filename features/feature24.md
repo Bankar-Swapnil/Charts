@@ -2,9 +2,9 @@
 layout: feature
 folderName: feature
 lang: en
-fileName: feature10
-permalink: Bubble-Chart
+fileName: feature24
+permalink: Area-Under-Step-Line-Chart
 tool: safeimagekit
 # noBox: true
 ---
-{% include feature10.html%}
+{% include feature24.html%}
